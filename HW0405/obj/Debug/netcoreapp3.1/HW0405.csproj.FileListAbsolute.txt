@@ -1,0 +1,17 @@
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\HW0405.exe
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\HW0405.deps.json
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\HW0405.runtimeconfig.json
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\HW0405.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\HW0405.dll
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\HW0405.pdb
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\99470\source\repos\HW0405\HW0405\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.AssemblyInfo.cs
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.csproj.CopyComplete
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.dll
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.pdb
+C:\Users\99470\source\repos\HW0405\HW0405\obj\Debug\netcoreapp3.1\HW0405.genruntimeconfig.cache
